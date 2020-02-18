@@ -1,4 +1,4 @@
-# Would You Rather...? Project
+# Would You Rather
 
 This project represents the second course project for Udacity's React Nanodegree course.
 
